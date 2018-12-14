@@ -1,2 +1,0 @@
-# tailwind_css_react_component_sandbox
-Created with CodeSandbox
